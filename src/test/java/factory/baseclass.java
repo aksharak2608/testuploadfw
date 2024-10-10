@@ -23,7 +23,7 @@ public class baseclass {
 	public static ExtentTest logger;
 	public static WebDriver driver;
 	
-	//this is before suite
+	//this is before suite hesjksdksfsdf
 	@BeforeSuite
 	public void statusReports()
 	{
